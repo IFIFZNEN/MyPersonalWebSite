@@ -1,0 +1,27 @@
+header {
+    background-color: #3498db;
+    color: #fff;
+    text-align: center;
+    padding: 1em;
+}
+
+.header-content {
+    display: flex;
+    align-items: center;
+    position: left;
+}
+
+h1 {
+    color: #3498db;
+    margin-left: 10px;
+}
+
+p {
+    line-height: 1.6;
+}
+
+img {
+    width: 472px;
+    height: 707px;
+    border-radius: 50%;
+}
